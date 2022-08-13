@@ -1,0 +1,9 @@
+#Container1 {
+	display: flex ;
+	justify-content: center;
+}
+
+#Container1 > .button {
+  display: block;
+}
+
